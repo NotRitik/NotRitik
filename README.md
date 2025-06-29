@@ -139,8 +139,8 @@ Stay tuned for the latest developments, project milestones, and interesting insi
 
 I'm always open to collaborating on interesting projects, discussing new technologies, or simply connecting with fellow developers. Feel free to reach out!
 
-*   **Email:** [ritikcodez@gmail.com](mailto:ritikcodez@gmail.com) (Please replace with your actual email)
-*   **GitHub:** [github.com/NotRitik](https://github.com/NotRitik) (Please replace with your actual GitHub profile)
+*   **Email:** [ritikcodez@gmail.com](mailto:ritikcodez@gmail.com) 
+*   **GitHub:** [github.com/NotRitik](https://github.com/NotRitik) 
 *   **Discord:** `notritik.exe`
 
 
