@@ -158,7 +158,7 @@ A glimpse into the environment where the magic happens and code comes to life!
 
 <p align="center">
   <small>
-    &copy; 2024 Not Ritik. All rights reserved. <br>
+    &copy; 2025 Not Ritik. All rights reserved. <br>
     Made with RxDevelopement
   </small>
 </p>
