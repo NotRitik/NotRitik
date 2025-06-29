@@ -1,16 +1,171 @@
-## Hi there 👋
-
 <!--
-**NotRitik/NotRitik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Hello Developer! 👋
 
-Here are some ideas to get you started:
+    This README is a professional template tailored to your specifications.
+    Please remember to replace all placeholder text like:
+    - `https://github.com/NotRitik` (with your actual GitHub profile)
+    - `not.ritik.dev@example.com` (with your actual email)
+    - `https://www.linkedin.com/in/notritik` (with your actual LinkedIn profile)
+    - `YOUR_DISCORD_ID` (with your Discord user ID for the badge link)
+    - `YOUR_BOT_ID` (with your Discord Bot's Client ID if applicable)
+    - Project descriptions, technologies, and statuses with your real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    The GitHub Stats and Top Languages badges require a real GitHub username to display correctly.
+    Replace `NotRitik` in their `src` attribute with your actual GitHub username once you set one up.
 -->
+
+![Developer Portfolio Banner](https://cdn.discordapp.com/attachments/1382606226545967165/1388149260024807446/file_00000000c73462309962bf8cb1391c78.png?ex=6861e87e&is=686096fe&hm=20e59533136f5bc77add0f20004d5988cc14d7a8e76283465173aed9a6e9a1dc&)
+
+# 🌟 Welcome to Not Ritik's Digital Domain 🚀
+
+### Crafting Innovative Solutions Across the Digital Spectrum
+
+Hello! I'm **Not Ritik**, a passionate and versatile developer dedicated to building impactful and scalable software solutions. With a keen eye for detail and a drive for innovation, I specialize in bringing diverse digital concepts to life, from intricate backend systems to engaging user interfaces and specialized applications. My journey in development is fueled by curiosity and a commitment to mastering new technologies and paradigms.
+
+I thrive on turning complex ideas into elegant, high-performance software, whether it's optimizing server-side logic for a Minecraft network, engineering a feature-rich Discord bot, or developing a robust full-stack web application.
+
+---
+
+## 🛠️ My Professional Skillset
+
+My expertise spans a wide array of programming languages, frameworks, and tools, enabling me to tackle diverse challenges and build comprehensive solutions. Below are some of the technologies I frequently work with:
+
+### 🌐 Core Languages & Runtimes
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 💻 Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend Development
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🎮 Game Development (Minecraft)
+![Spigot/PaperMC](https://img.shields.io/badge/Spigot/PaperMC-E56524?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRTVBMzI0IiBkPSJNMjU2IDBUMCwyNTYgMjU2LDUxMiA1MTIsMjU2IDI1NiwweiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0zMzcuOSAyNTQuMWwtMTAwLjUgMTMyLjRsNTQuMS03MC4xIDY1LjQtNjIuM3pNNDExLjIgMjEyLjJsLTI1LjctMzEuMy02NS4yLTYyLjUtMjUuOCAzMy4zIDkxLjUgNjAuNXoiLz48L3N2Zz4=&logoColor=white)
+![Bukkit](https://img.shields.io/badge/Bukkit-F06D30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjEwMCIgZmlsbD0iI0YwNkQzMCIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0xMDAgMTcuMjljLTQ1LjU2IDAtODMuODIgMzEuNDUtOTEuNjggNzMuOTcgMTUuNTUtMy40IDMxLjEzLTYuNjggNDYuMi05LjE4IDE2LjQ2LTIuNiAzMi4yMy00Ljg1IDQ3LjE3LTYuNjMgOS4yNi0xLjA4IDE4LjQyLTEuOTIgMjcuMy0yLjY3IDE0LjktMS4yNiAyOS4xMy0xLjU1IDQyLjUtLjA4IDguNzcuNzcgMTYuNDcgMi40NSAyMy4wNyA1LjQzIDcuMTQgMy4yNSAxMy4yMiA3LjQ2IDE4LjI3IDEzLjA5IDYuOTYgNy43NSA4LjMyIDE3LjUyIDMuOTYgMjQuOTYtNC4wMiA1LjM0LTkuNzUgOS4yMi0xNi41NSAxMS40Ny0xMy4zOCA0LjQxLTI4LjY2IDQuNTgtNDMuMi0uNTctOS45LTMuNTItMTcuNi05LjQ1LTIzLjUtMTcuMjEtNy42LTkuOTYtOS4xNC0yMS40LTQuMDUtMzEuNjQgNC45NC05Ljg1IDEzLjg2LTE2LjYgMjQuNDYtMjAuMjQgMTIuNDMtNC4zMiAyNi4wMi00LjQ4IDM5LjczLS41MiA3LjM2IDIuMTEgMTMuNzIgNi40MSAxOC40OCAxMi40OCA2LjY3IDguNCA3LjQ0IDE4LjgzIDQuOTUgMjcuNjgtMi4xIDcuOTItNy4yNiAxMy42Ni0xNC4zOCAxNy45NC0xMi42OCA3LjYxLTI3LjQ2IDcuNzYtNDAuNzYuMDQtOS43Ny01LjMyLTE3LjUtMTMuOTctMjMuNjItMjUuMjUtNC4yMi03LjQ1LTQuMzktMTUuOC0uODktMjMuNiAzLjE4LTYuNzYgOC44NS0xMS44NiAxNS43NS0xNS41MyA4LjAzLTQuMjYgMTYuNzctNi41IDI1LjE1LTcuMzcgMTIuMzYtMS4yNyAyNC4wNi0uNzQgMzQuNiAxLjg1IDcuMyAxLjg5IDEzLjYzIDQuOTUgMTguNjggOS4yNyA3LjI4IDYuMjMgMTEuMjQgMTMuODUgMTIuMyAyMi41NyAxLjY5IDE0LjI1LTMuNDUgMjcuMzctMTQuMDIgMzcuMzUtOS44OCA5LjU1LTIzLjUgMTUuMTgtMzkuMjIgMTUuMjYtMTQuNzcuMTItMjguMTgtNS4wMi0zNy45NS0xNC42Mi05LjY0LTkuNDUtMTQuMDYtMjEuNDYtMTIuMjctMzIuOTkgMS42Ny0xMC41IDcuOTYtMTkuMTUgMTYuNjktMjUuMjggMTAuMjQtNy4xNCAyMi40My05LjM5IDM0Ljc5LTUuNjcgOS4xNSAyLjc3IDE3LjIzIDcuMzggMjMuMjUgMTMuODIgNi42MiA3LjA5IDkuNzMgMTUuNDUgOS42NiAyNS42LS4wNyAxMS4yNS00LjkgMjEuNDgtMTQuMDggMjkuMDctOC41MSA2Ljg1LTE5LjY5IDEwLjQtMzEuNDcgMTAuNTMtMTEuMzIuMTItMjIuMjctMy4zNy0zMC43LTkuNDgtNy42OS01LjYtMTMuMzgtMTMuMDctMTcuNDQtMjIuMTgtMy4zMy03LjU0LTMuMjktMTYuMTEuMS0yNC42MiAzLjU0LTguNjIgOS45Mi0xNS42MyAxNy42Mi0yMC42NyA4LjMtNS40MSAxOC4wOC03LjU1IDI3LjU0LTUuMTkgMTEuODMgMy4wMiAxOS44OCAxMC42NiAyMi43IDIyLjY0IDEuNDcgNi4xNC4xIDEyLjI2LTMuNjYgMTcuMzUtMy4yOCA0LjQxLTcuNzEgNy44LTEyLjQ4IDkuNjYtNi45NyAyLjcyLTE0LjQ0IDIuOC0yMC42OC0uMDIiLz48L3N2Zz4=&logoColor=white)
+![Forge](https://img.shields.io/badge/Minecraft%20Forge-DD7F22?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjI1NiIgZmlsbD0iI0RGN0QyMiIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0yNTYgNTQuOWMxMS4zLTAuMSAyMi42IDAgMzQuMS0wLjcgMTcuMi0yLjIgMzQuNC00LjQgNTEuNi03LjYgMy42LTAuNyA3LjctMS44IDExLjctMy40IDcuMi0yLjggMTMuNi02LjggMTguMy0xMy41IDYuMi05LjMgOC43LTIwLjEgOC45LTMxLjcuMi0xMS4yLTEuOC0yMi4yLTYuOS0zMS43LTYuMy0xMS45LTE0LjUtMjEtMjUuNS0yNi45LTEwLjQtNS41LTIyLjMtNy43LTM0LjUtNy40LTE3LjEuNC0zNC40IDEuNi01MS41IDQuNC0xMC44IDEuOC0yMS40IDQuMi0zMS44IDYuOC04LjcgMi4xLTE2LjQgNC44LTIyLjggOC45LTguNSAzLjktMTUuNCA5LjctMjEuMiAxNi44LTcuNyA5LjQtMTAuMiAxOS45LTEwLjEgMzAuOCAwIDExLjkgMi43IDIyLjggOC40IDMzLjQgNi44IDExLjkgMTUuNiAyMC42IDI2LjMgMjYuMiAxMC43IDUuNiAyMy41IDcuNiAzNS45IDcuNiAxMi45IDAuMiAyNS44IDAgMzkuNS0wLjVWMjU2aDU0LjlWMTAyLjFjMTMuNyAwLjUgMjYuNiAwLjggMzkuNSAwLjcgMTIuNC0wLjEgMjUuMi0yLjEgMzUuOS03LjYgMTAuNy01LjYgMTkuNS0xNC4zIDI2LjMtMjYuMiA1LjctMTAuNiA4LjQtMjEuNSA4LjQtMzMuNCAwLTExLjEtMi40LTIxLjYtMTAuMS0zMC44LTYuMi03LjUtMTMuNi0xMy4zLTIxLjItMTYuOC02LjQtNC4xLTE0LjEtNi44LTIyLjgtOC45LTEwLjQtMi42LTIxLTUuMS0zMS44LTYuOC0xNy4xLTIuOC0zNC40LTQuMi01MS41LTQuNC0xMi4yLTAuMy0yNC4xIDEuOS0zNC41IDcuNC0xMSAzLjktMTkuMiAxMi0yNS41IDI2LjktNS4xIDkuNi03LjEgMjAuNS02LjkgMzEuNyAwIDExLjYgMi43IDIyLjQgOC45IDMxLjcgNC43IDYuNyAxMS4xIDEwLjcgMTguMyAxMy41IDQgMS42IDguMSAyLjcgMTEuNyAzLjQgMTcuMiAzLjEgMzQuNCA1LjQgNTEuNiA3LjYgMTEuNSAwLjcgMjIuOCAwLjggMzQuMSAwLjcgMCAxNTMuOSAwIDI1NiAwIDMxMS41IDAgMTEuOSAyLjcgMjIuOCAxMC42IDMyLjUgOC4yIDkuOCAxOS4xIDE3LjQgMzAuOSA2LjggMTIuNC01LjYgMjUuMi03LjYgMzUuOS03LjYgMTIuOSAwLjIgMjUuOCAwIDM5LjUgMC42VjI1Nmg1NC45djIwOS4yYzAgMTEuNi0yLjUgMjIuNS01LjggMzIuNC01LjEgMTUuNC0xMi42IDI4LjctMjMuNiAzOS40LTExLjggMTEuMS0yNi42IDE5LjEtNDEuMSAyMS44LTE1LjQuOS0zMC44IDAtNDQuOC0zLjItMTguNC0zLjUtMzcuMi02LjktNTUuNi0xMC44LTE1LjMtMy4xLTMwLjItNi42LTQ0LjMtMTAuNS0xNS41LTQuMi0yOS43LTkuNy00Mi41LTE3LjctMTQuMi04LjktMjUuNi0xOS44LTM0LjItMzIuNy02LjMtOS40LTkuNC0yMC4xLTkuNi0zMi41LTAuMi0xMS43IDIuNi0yMi45IDguMi0zMy4yIDYuNC0xMS44IDE1LjItMjAuNyAyNS45LTI2LjYgMTAuNy02IDIzLjYtOC4xIDM2LjUtOC40IDEyLjctMC4zIDI1LjUgMC4xIDM5LjEgMC41VjI1NnpNNTIuNSAzODguNGMxMi40IDAgMjUuMi0yLjEgMzUuOS03LjYgMTAuNy01LjYgMTkuNS0xNC4zIDI2LjMtMjYuMiA1LjctMTAuNiA4LjQtMjEuNSA4LjQtMzMuNCAwLTExLjYtMi41LTIyLjUtNS44LTMyLjQtNS4xLTE1LjQtMTIuNi0yOC43LTIzLjYtMzkuNC0xMS44LTExLjEtMjYuNi0xOS4xLTQxLjEtMjEuOC0xNS40LTAuOS0zMC44IDAtNDQuOCAzLjItMTguNCAzLjUtMzcuMiA2LjktNTUuNiAxMC44LTE1LjMgMy4xLTMwLjIgNi42LTQ0LjMgMTAuNS0xNS41IDQuMi0yOS43IDkuNy00Mi41IDE3LjctMTQuMiA4LjktMjUuNiAxOS44LTM0LjIgMzIuNy02LjMgOS40LTkuNCAyMC4xLTkuNiAzMi41LTAuMiAxMS43IDIuNiAyMi45IDguMiAzMy4yIDYuNCAxMS44IDE1LjIgMjAuNyAyNS45IDI2LjYgMTAuNyA2IDIzLjYgOC4xIDM2LjUgOC40IDEyLjctMC4zIDI1LjUgMC4xIDM5LjEgMC41aDU0LjlWMjU2aDU0LjlWMzcwLjRjMTMuNyAwLjUgMjYuNiAwLjggMzkuNSAwLjcgMTIuNC0wLjEgMjUuMi0yLjEgMzUuOS03LjYgMTAuNy01LjYgMTkuNS0xNC4zIDI2LjMtMjYuMiA1LjctMTAuNiA4LjQtMjEuNSA4LjQtMzMuNCAwLTExLjYtMi41LTIyLjUtNS44LTMyLjQtNS4xLTE1LjQtMTIuNi0yOC43LTIzLjYtMzkuNC0xMS44LTExLjEtMjYuNi0xOS4xLTQxLjEtMjEuOC0xNS40LTAuOS0zMC44IDAtNDQuOCAzLjItMTguNCAzLjUtMzcuMiA2LjktNTUuNiAxMC44LTE1LjMgMy4xLTMwLjIgNi42LTQ0LjMtMTAuNS0xNS41LTQuMi0yOS43LTkuNy00Mi41LTE3LjctMTQuMi04LjktMjUuNi0xOS44LTM0LjItMzIuNy02LjMtOS40LTkuNC0yMC4xLTkuNi0zMi41LTAuMi0xMS43IDIuNi0yMi45IDguMi0zMy4yIDYuNC0xMS44IDE1LjItMjAuNyAyNS45LTI2LjYgMTAuNy02IDIzLjYtOC4xIDM2LjUtOC40IDEyLjctMC4zIDI1LjUgMC4xIDM5LjEgMC41VjI1NnpNNDY4LjMgMjYxYzUuNy01LjcgOC43LTExLjggOC43LTE3LjUgMC01LjctMy0xMS44LTguNy0xNy41LTV2MjVjLTUuNy01LjYtOC44LTExLjctOC44LTE3LjQgMC01LjcgMy0xMS44IDguOC0xNy41IDUuNi01LjcgOC44LTExLjcgOC44LTE3LjQgMC01LjcgMy0xMS44IDguNy0xNy41IDUuNi01LjcgOC44LTExLjcgOC44LTE3LjQgMC01LjcgMy0xMS44IDguNy0xNy41IDUuNi01LjcgOC44LTExLjcgOC44LTE3LjQgMC01LjcgMy0xMS44IDguNy0xNy41IDUuNi01LjcgOC44LTExLjcgOC44LTE3LjQgMC01LjcgMy0xMS44IDguNy0xNy41IDUuNy01LjcgOC44LTExLjcgOC44LTE3LjQgMC01LjctMy0xMS44LTguNy0xNy41LTV2MjVjLTUuNy01LjYtOC44LTExLjctOC44LTE3LjQgMC01LjcgMy0xMS44IDguOC0xNy41IDUuNy01LjcgOC44LTExLjcgOC44LTE3LjQgMC01LjcgMy0xMS44IDguNy0xNy41IDUuNi01LjcgOC44LTExLjcgOC44LTE3LjQgMC01LjcgMy0xMS44IDguNy0xNy41IDUuNi01LjcgOC44LTExLjcgOC44LTE3LjQgMC01LjcgMy0xMS44IDguNy0xNy41IDUuNi01LjcgOC44LTExLjcgOC44LTE3LjQgMC01LjcgMy0xMS44IDguNy0xNy41IDUuNy01LjcgOC44LTExLjcgOC44LTE3LjQgMC01LjctMy0xMS44LTguNy0xNy41VjcwYzUuNy01LjYgOC44LTExLjcgOC44LTE3LjQgMC01LjcgMy0xMS44IDguOC0xNy41IDUuNy01LjcgOC43LTExLjcgOC43LTE3LjQgMC01LjctMy0xMS44LTguNy0xNy41LTVWMG4wLDU0LjktNDUuNyA1LjYtNTUuNiAxMi42LTc5LjMgOS40LTkzLjIgNi42LTI3LjgtMTguOC01Ni42LTM1LjMtNzYuNS02MC42LTM3LjMtNzAuNi0yNS41LTM0LTM4LjgtNTMuNi00My41LTcxLjItMTkuNS01LjctMjkuMi0xMS41LTM1LTIwLjMtMzEuOS00Ny45LTE0LjEtMTA4LjMgNDUuOS0xNDMuOSAzNS41LTIxLjEgNzYuMS0xOS40IDEwMi4xIDIuMiA2LjEgMi41IDExLjUgNS41IDE2LjQgOS4yIDcuMyA1LjUgMTMuMiAxMS44IDE4LjIgMTguNyAxNC42IDIwLjIgMjMuMSAzOS4yIDI1LjIgNjIuMyAyLjkgMzEuMy02LjMgNjIuOC0yNS42IDg5LjUtMzYuNiA0OS45LTg1LjQgNzcuNC0xMzYuMSAxMDguMy02LjkgNC4yLTEzLjUgOC4yLTE5LjkgMTIuMi0xMy41IDguNS0yNS4zIDE4LjQtMzQuNiAyOS41LTkuOSA1LjktMTguOCAxMi40LTI2LjcgMjAuMS0xMi42IDEyLjMtMTkuNiAyNi44LTIwLjEgNDMuNS0wLjUgMTYuNiA2LjIgMzEuOSAxOS43IDQzLjQgMTMuMiAxMS4yIDI4LjggMTguMSAzOC43IDI2LjcgMTIuNiAxMS4zIDIwLjYgMjQuNiAyMy41IDM5LjEgMi45IDE0LjYtMi44IDI4LjYtMTYuMiAzOS40LTYuOCA1LjMtMTUuOCA4LjktMjUuNiAxMC45LTE1LjUgMy40LTMxLjEgMy40LTQ2LjUgMC4xLTI2LjctNS43LTUxLjUtMjAuMy02NS4xLTQxLjctMy42LTUuNi01LjctMTIuNC01LjgtMTkuMy0wLjEtMjEuMSAxMS4xLTQxLjIgMzEuOS01Mi41IDI1LjctMTQuMyA1Mi44LTI0LjcgNzcuOS0zMy42IDIxLjctNy45IDQyLjYtMTUuOCg1OS4xLTExLjUgMTcuOCAzLjYgMzMuOSAxMi41IDQ2LjggMjQuOCAxMC42IDkuOSAxOC40IDIyIDIzLjUgMzUuMiA1LjcgMTQuNyA2LjkgMzAuMiAyLjkgNDYuMi00LjIgMTYuNy0xMy4zIDMyLjEtMjYuMSAzMC4zLTMuNi0wLjUtNi4yLTMuMi03LjItNi41LTcuOS0yNS41LTI2LjUtNDYuOC00OC43LTYwLjUtNy43LTQuOC0xNS43LTkuNC0yNC4yLTEzLjYtMjEuMi0xMC41LTM2LjYtMjYuMy00NS40LTQ1LjktOS42LTIwLjgtMTEuMy00Mi41LTUuMS02NC4yIDYuNy0yMy4xIDIxLjMtNDIuMiA0My4xLTU1LjkgMTUuMy05LjUgMzMuMy0xMy44IDUxLjctMTEuNyAxOC43IDIuMSAzNi42IDkuMSA1Mi4xIDIwLjMgMTIuNSAxLjYgMjUuMiAyLjUgMzguMyAyLjIgMTYuNy0wLjUgMzMuMS0yLjQgNDcuOS01LjQgMTUuOS0zLjIgMzAuMy04LjMgNDMuMy0xNC45IDI3LjItMTQuMSAzOS40LTQzLjQgMjkuOC02OS45LTkuMS0yNS43LTMxLjktNDIuNy01OC42LTQ0LjMtMy4xLTAuMi02LjEtMC4zLTkuMiAwLjMtMjEuMyAyLjItMzkuMiAxMS42LTQ3LjUgMzEuNC01LjMgMTIuNS02LjUgMjUuNi0xLjcgMzguNiA0LjUgMTEuOSAxMi40IDIyLjEgMjIuMiAyOS40IDkuMiA2LjggMTkuMiAxMi4yIDI5LjYgMTUuNyA5LjggMy4yIDE5LjkgNC43IDMwLjEgNC4zIDE2LjctMC41IDMzLjEtMi42IDQ4LjItNi4xIDE2LjEtMy42IDI5LjctMTAuMSAzOS42LTE5LjkgNy4xLTcuMSA2LjEtMTUuNS0uOC0yMS4yLTcuNC02LjctMTguMi05LjMtMjguMy04LjYtMjcuMSAyLjEtNDkuMiAxNy41LTU5LjEgNDMuNi03LjYgMjAuMS03LjUgNDAuMyAwLjEgNTkuMiAxMC43IDI4LjEgMzEuOSAxMy42IDQyLjEgMjEuMiAyNy43IDQ5LjUgOTMuNSA3My43IDE2MS41IDY3LjkgMTYuNS0xLjUgMzIuOS00LjUgNDcuNy04LjggMjEuNC02LjEgNDEuMS0xNS41IDU1LjgtMzEuNiAxNy42LTE5LjEgMjguMi00MS42IDMwLjktNjUuNyAzLjMtMjkuMS01LjctNTYuNC0yNS44LTc3LjktMjAuNi0yMS44LTQ2LjktMzQuMS02Ny42LTQyLjQtMTkuOC04LjEtNDAuMi0xMy41LTYxLjMtMTYuNi01LjItMC43LTEwLjYtMS4yLTE1LjktMS45LTQxLjktNC43LTgzLjEtMTAuNy0xMjMuMi0xOC0zNi4yLTYuNC02Ny45LTE1LjItOTUuNS0yOS43LTguNi00LjYtMTYuNi0xMC4yLTIzLjUtMTcuMy0xNC4yLTE0LjUtMjMuMi0zMi41LTI1LjMtNTIuNy0yLjItMjAuMSAyLjgtMzguNiAxNC42LTU1IDExLjUtMTUuNyAyNy41LTI3LjIgNDcuNC0zNS4yIDIxLjEtOC41IDQzLjgtMTIuNiA2OC4yLTExLjUgMjYuNiAxLjIgNTIuMiAxMC40IDcxLjggMjYuNiAxMi40IDkuOSAyMi41IDIxLjkgMjkuNiAzNS40IDcuMiAxMy40IDEwLjcgMjcuMyAxMC42IDQxLjctMC4yIDE0LjQtMy45IDI4LjMtMTEuMSAzOS42LTcuNiAxMi4xLTE3LjMgMjIuNi0yOC40IDMwLjctMTEuOSAxLjctMjQuMiAwLjUtMzUuNi0zLjQtMTYuOS01LjYtMzIuNy0xMy44LTQ1LjctMjUuMi0xNC4yLTEyLjItMjQuMi0yNi45LTI5LjktNDMuOC02LjMtMTcuOS03LjMtMzYuMS0zLjItNTUuMSAzLjctMTYuOSAxMy4xLTMxLjUgMjYuNi00My41IDE0LjUtMTMuMSAzMC43LTIzLjUgNDguMS0yOC41IDI2LjYtNy43IDU1LjEtNS45IDgyLjYgNS40IDQuMiAxLjcgNy45IDQuNiAxMC45IDcuOCAzLjUgMy43IDYuMSA3LjggNy41IDEyLjMgMi44IDguNyAzLjIgMTcuOCAxLjIgMjYuOS0xLjcgNy42LTQuOCAxNC4zLTkuNSAxOS45LTEwLjMgMTIuMi0xOS4zIDI1LjYtMjYuMyA0MC4yLTYuOCAxNC4xLTMuMiAyOS41IDcuNiA0MS4xIDEyLjkgMTQuMyAyMS42IDI1LjggMzcuNiAzNS45IDE2LjMgMTAuMyAzNC45IDE2LjYgNTQuMiAxOC4xIDIwLjMgMS42IDQwLjItMy4xIDU5LjMtMTMuMyAxNC44LTggMjguNi0xOC41IDQwLjgtMzEuMyAxMS42LTEyLjMgMjEuMy0yNi45IDI4LjQtNDMuNiA2LjItMTUuMyA3LjMtMzEuMyAzLjItNDcuNS00LjktMTguOC0xNS41LTM1LjEtMzAuMy00OC4yLTE2LjItMTQuNi0zNC41LTI1LjItNTMuNy0zMC4yLTE2LjktNC40LTM0LjEtNS40LTUxLjUtMy42LTI3LjQgMi44LTUzLjMgMTQuMi03My42IDMxLjYtOC4xIDYuOC0xNS4xIDE0LjQtMjEuMSAyMy40LTEwLjYgMTYuNi0xNi43IDM1LTIxIDU0LjctNC40IDIwLjItNi43IDQxLjQtMi4xIDYzLjUgMy43IDE4LjIgMTIuMiAzNC41IDI0LjEgNDcuOCAxMi42IDE0LjEgMjguNiAyNC40IDQ1LjYgMzEuMyAxOS40IDcuNyAzOS44IDEwLjggNjEuMSAxMC42IDIxLjItMC4xIDQxLjQtMy43IDU4LjQtMTAuMiAxOC4xLTYuNyAzNS40LTE3LjIgNDguNy0yOS4zIDIxLjUtMTkuNyAzMS41LTQ1LjUgMzAuNy03Mi44LTAuOC0yOS4xLTE0LjUtNTUuMi0zOC40LTczLjYtMjcuMy0yMC42LTU1LjctMjkuMi04NS41LTMyLjktMzcuMi00LjUtNzQuNS0yLjMtMTA5LjUgNS41LTM0LjcgNy44LTY3LjQgMjAuNC05NC41IDM4LjctMjcuMyAxOC4zLTQ4LjggNDEuOC02Ni40IDcwLjUtOS4yIDE1LjItMTYuNSAzMS44LTIxLjUgNDkuOC01LjIgMTkuMy01LjggMzkuMy0xLjggNjAuMiAzLjkgMTkuMyAxMi4zIDM2LjUgMjQuMSA1MS41IDEyLjkgMTYuNiAyOS40IDI4LjggNDguNSAzNy44IDIyIDkuOSA0NS40IDE1IDY5LjIgMTQuMyAyNC43LTAuNyA0OC40LTcuOCA2OC44LTIwLjQgMTMuMi04LjIgMjQtMTguNyAzMS44LTMwLjggOC41LTEzLjIgMTMuMi0yNy45IDEzLjItNDMuMSAwLTE1LjQtNC4xLTI5LjYtMTIuMS00MS42LTcuOS0xMS45LTE4LjgtMjEuMi0zMS0yOC40LTExLjctNy0yNC42LTEwLjgtMzguMy0xMS40LTE1LjYtMC42LTMxLjMgMC41LTQ2LjMgNC40LTIwLjEgNS4yLTM4LjEgMTUuMy01My43IDI5LjYtMTcuNSAxNS43LTI5LjcgMzUuNC0zNy45IDU4LjYtOC41IDI0LjEtNy43IDQ4LjYgMi40IDczLjcgOS45IDI0LjEgMjcuMiA0My45IDQ4LjMgNjAuMiAyMy4xIDE2LjggNDcuOSAyNy44IDc1LjMgMzIuMSAyOS4yIDQuNiA1OC40IDIuNiA4Ni43LTQuOSAzMC42LTguMSAzMC4yLTcuNiAzNC45LTE2LjIgNC4yLTcuNiAzLjgtMTUuNS0xLjItMjAuOS01LjUtNS43LTEyLjgtOC42LTIwLjktOC42LTYuNiAwLTEzLjItMS41LTE4LjgtNC41LTguNC00LjQtMTUuNy0xMC4yLTIwLjgtMTcuMy04LjQtMTEuNy0xMi42LTI0LjctMTIuNi0zOC44IDAtMTEuOCAyLjctMjMuMSA4LjMtMzMuNyA2LjUtMTEuOCA1LjQtMjEuNS0zLjMtMjkuOC02LjQtNi4zLTE2LjMtOS43LTI2LjktOS42LTEzLjcgMC4xLTI2LjggMy45LTM5LjMgMTEuNy0xNi42IDEwLjItMzAuMiAyNC4zLTM5LjUgNDAuOS0xMC4xIDE3LjgtMTQuNiAzNi41LTExLjUgNTYuMyAzLjEgMTkuNyAxMi4xIDM3LjEgMjUuNiA1Mi4zIDE1LjcgMTcuNyAzNi42IDI5LjQgNTkuMSAzNS4yIDI0LjggNi41IDUwLjYgNi40IDc0LjUtMC4xIDI0LjgtNi44IDQ3LjktMTkuOCA2NS4xLTM3LjIgMTcuNC0xNy40IDMwLjItMzguNyAzNy4xLTYyLjMgNy4xLTIzLjMgOC4xLTQ3LjYgMi45LTcxLjEtNS4yLTIzLjQtMTYuOC00My41LTMyLjYtNTguNC0xNi44LTE1LjQtMzYuMi0yNS42LTU1LjctMzIuNi0yMC03LjEtNDAuNy05LjctNjEuMy04LjctMTYuMiAwLjgtMzEuOCAzLjgtNDYuNSAxMC41LTI2LjEgMTEuOC00Ny41IDMwLTU5LjEgNTQuNC0xMC41IDIyLjYtMTMuOCAzOS40LTExLjIgNjAuMSAxLjcgMTMuNCA1LjkgMjYuMyAxMS41IDM4LjEgNi4yIDEzLjcgMTMuNiAyNS42IDIyLjYgMzUuOCAxMC42IDExLjYgMjIuNyAxOS44IDM1LjkgMjUuMyAxNC43IDYuMSAzMC4xIDguMSA0Ni42IDYuNiAyNC4xLTMuMiA0Ni43LTE1LjMgNjYuNS0zMS4xIDEzLjUtMTAuNiAyNC42LTI0LjEgMzAuOC0zOC45IDQuOS0xMS43IDUuNS0yNC0wLjgtMzUuNi02LjktMTIuNi0xNy4yLTIyLjYtMjkuMy0yOS41LTEyLjctNy4zLTI2LjYtMTAuMi00MC01LjctMTkuMyA2LjYtMzUuMiAxOS4xLTQ1LjUgMzYuMS0xMC43IDE3LjktMTUuNCAzNi44LTExLjMgNTUuNSAyLjggMTIuNyA4LjYgMjQuMSAxNi43IDMzLjggMTQuNCAxNy40IDMyLjMgMjkuNSAzNy43IDU0LjMgNS45IDI2LjggMy4yIDU1LjQtNi45IDc1LjEtMTcuNiAzNC40LTY1LjcgNjguNC0xMDkuMiA4My40LTQzLjkgMTUuNy05Mi4yIDEwLjMtMTI5LjMtMTQuMy0xNi43LTExLjEtMjkuNS0yNS45LTM2LjYtNDMuMi04LjItMjAuMS04LjEtNDAuMi0uNi01OC44IDEwLjItMjQuMiAyOC44LTQ0IDUwLjctNTguMiAyMy41LTE1LjEgNTAuMi0yMy45IDc4LjItMjYuMSAyOS44LTIuMyA1OS4yIDMuMiA4Ni43IDE3LjggMTkuMyAxMC4yIDM2LjYgMjMuNSA0OS41IDM5LjYgMTMuNiAxNi43IDI0LjMgMzUuNyAzMC41IDU1Ljg1LTYuMiAxOC44LTExLjggMzQuMi0xNi41IDQ2LjctMi42IDYuOS01LjkgMTMuMS05LjMgMTkuMS04LjcgMTUuNC0xOC44IDI3LjgtMzAuMSAzNy44LTEwLjkgOS43LTIzLjYgMTUuNi0zNy40IDE2LjctMTYuOSAxLjQtMzMuNiAwLjQtNDkuNy00LjMtMjIuNy02LjMtNDMuNi0xNy40LTU5LjctMzMuNS0xOC4yLTE4LjYtMzAuMi00MC42LTM3LjUtNjUuMS03LjktMjUuNi03LjItNTIuOCAyLjctNzcuMyA3LjItMTguMSAxOC45LTM0LjIgMzMuNi00Ny41IDE1LjYtMTQuMiAzMy40LTI0LjQgNTIuNy0zMS40IDIwLjItNy40IDQxLjItMTAuNyA2Mi42LTEwLjIgMjMuOSAwLjYgNDYuNyA3LjMgNjcuNSA1Mi42IDguNyA2LjEgMTQuMiAxMS44IDE2LjggMTcuOSAzLjQgOC43IDMuMyAxNy42IDAgMjYuNS00LjkgMTIuNi0xMy41IDIzLjItMjQuNiAzMC41LTE0LjYgOS41LTMxLjQgMTUuMi00OS40IDE1LjUtMTcuNyAwLjMtMzQuOS00LjQtNTAuNC0xMy41LTcuMS00LjItMTMuMS05LjMtMTcuOC0xNS41LTcuMS05LjItMTEuMi0xOS4zLTEzLjYtMzAuMi0yLjUtMTEuMS0xLjgtMjIuNCAtNy0zMi42LTUuMi0xMC4yLTEyLjItMTguNy0yMC44LTI1LjMtOC45LTctMTguOS0xMS43LTI5LjQtMTMuNi0xNS4yLTIuOC0zMC43LTEuNy00Ni4xIDMuNi0yMi44IDcuNy00Mi42IDIyLjgtNTcuNiA0My40LTMuNyA1LjQtNy40IDEyLjUtMTEuMiAxOS43LTcuMyAxNC4xLTEyLjMgMjkuNC0xNC40IDQ1LjYtMi4xIDE2LjItMC42IDMyLjQgNC44IDQ4LjEgNi4yIDE3LjMgMTYuNiAzMi4yIDMzLjIgNDUuMiAxNy41IDEzLjkgMzUuOSAyNC4xIDU1LjggMzIuOCAyMi4xIDkuNyA0NS42IDE0LjcgNjkuMiAxNC42IDI0LjEtMC4xIDQ3LjctNi44IDY3LjktMTkuNyAxMi42LTcuOSAyMi43LTE4LjUgMjkuNi0zMC4yIDcuMy0xMi42IDEwLjctMjYuMyAxMC44LTQwLjYgMC4xLTE0LjMtMy42LTI4LjEtMTAuNy0zOS45LTcuNS0xMi43LTE3LjgtMjIuNi0yOS40LTMwLjItMTEuNy03LjctMjQuNi0xMC44LTM4LjUtMTEuNS0xNi45LTAuOC0zMy43IDAuMi00OS43IDQuOS0yMi40IDYuNi00Mi40IDE3LjgtNTcuMiAzMy44LTE3LjMgMTguMi0yOS4xIDM5LjctMzYgNjQuMi03LjEgMjQuOC02LjUgNTEuMiAyLjkgNzQuNyAxMC4zIDI0LjMgMjguMyA0My45IDQ5LjcgNjAuMSAyMyAxNy41IDQ3LjggMjkuMSA3NC43IDMzLjQgMjkuMSAzLjIgNTguMSAxLjEgODUuOS03LjUgMjkuOC05LjIgNTUuOC0yNS41IDc2LjgtNDguMyAxOC4zLTE5LjggMzIuNy00My41IDQxLjItNjguMSAxMC0yOC4yIDkuNi01Ny43LTAuOS04NS42LTMwLjgtODMuNS05NS45LTEyMi43LTE3OS45LTEwMC45LTQ1LjcgMTEuOS04Ni40IDQwLjMtMTE2LjggNzUuNi0xMi45IDE0LjYtMjIuMyAzMC43LTI5LjcgNDguNy04LjEgMTkuOC05LjMgNDAuMi0zLjUgNjEuOCAzLjQgMTIuNSAxMC4yIDI0LjIgMTkuMiAzNC41IDE1LjYgMTcuNyAzNi42IDI5LjQgNTkuMSAzNS4yIDI0LjggNi41IDUwLjYgNi40IDc0LjUtMC4xIDI0LjgtNi44IDQ3LjktMTkuOCA2NS4xLTM3LjIgMTcuNC0xNy40IDMwLjItMzguNyAzNy4xLTYyLjMgNy4xLTIzLjMgOC4xLTQ3LjYgMi45LTcxLjEtNS4yLTIzLjQtMTYuOC00My41LTMyLjYtNTguNC0xNi44LTE1LjQtMzYuMi0yNS42LTU1LjctMzIuNi0yMC03LjEtNDAuNy05LjctNjEuMy04LjctMTYuMiAwLjgtMzEuOCAzLjgtNDYuNSAxMC41LTI2LjEgMTEuOC00Ny41IDMwLTU5LjEgNTQuNC0xMC41IDIyLjYtMTMuOCAzOS40LTExLjIgNjAuMSAxLjcgMTMuNCA1LjkgMjYuMyAxMS41IDM4LjEgNi4yIDEzLjcgMTMuNiAyNS42IDIyLjYgMzUuOCAxMC42IDExLjYgMjIuNyAxOS44IDM1LjkgMjUuMyAxNC43IDYuMSAzMC4xIDguMSA0Ni42IDYuNiAyNC4xLTMuMiA0Ni43LTE1LjMgNjYuNS0zMS4xIDEzLjUtMTAuNiAyNC42LTI0LjEgMzAuOC0zOC45IDQuOS0xMS43IDUuNS0yNC0wLjgtMzUuNi02LjktMTIuNi0xNy4yLTIyLjYtMjkuMy0yOS41LTEyLjctNy4zLTI2LjYtMTAuMi00MC01LjcifmQ%3D&logoColor=white)
+![Fabric](https://img.shields.io/badge/Minecraft%20Fabric-F8DF22?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjEwMCUiIGZpbGw9IiNGNERGMjIiLz48cG9seWdvbiBmaWxsPSIjRkZGIiBwb2ludHM9IjEwMCwzMCA3MCw3MCAxMDAsMTEwIDEzMCw3MCBNNzAsNzAgMzAsMTEwIDcwLDE1MCAxMTAsMTEwIE0xMDAsMTEwIDEzMCwxNTAgMTcwLDExMCAxNDAsNzAgTTcwLDE1MCAxMDAsMTcwIDEzMCwxNTAgMTAwLDExMCIvPjwvc3ZnPg==&logoColor=black)
+
+### 🤖 Discord Bot Development
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Pycord](https://img.shields.io/badge/Pycord-5865F2?style=for-the-badge&logo=python&logoColor=white)
+![JDA](https://img.shields.io/badge/JDA-5865F2?style=for-the-badge&logo=java&logoColor=white)
+![Hikari](https://img.shields.io/badge/Hikari-00628B?style=for-the-badge&logo=python&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+Here are some highlights of my work, demonstrating my capabilities in specialized and general development areas.
+
+### 🎮 Minecraft Development
+#### Project: [Modular Minigame Core (Placeholder Name)]
+*   **Description:** A highly optimized and modular core plugin designed for large-scale Minecraft server networks. Features include a custom game API, dynamic map loading, advanced anti-cheat integration, and a flexible permission system. Built for performance and scalability.
+*   **Technologies:** Java, Spigot/Paper API, MySQL, Redis, Maven, YAML.
+*   **Status:** Actively developing / Private Repository (available upon request)
+*   [Learn More (GitHub Link)](https://github.com/NotRitik/MinecraftProjectPlaceholder)
+
+### 🤖 Discord Bot Development
+#### Project: [AetherGuard - Multi-purpose Community Bot]
+*   **Description:** A comprehensive Discord bot engineered to empower community managers with powerful moderation tools, custom command capabilities, robust event logging, and fun utility features. Designed for high uptime and low latency, supporting various Discord server needs.
+*   **Technologies:** Python (Pycord), PostgreSQL, Docker, AsyncIO.
+*   **Status:** Live on multiple servers / Seeking Beta Testers
+*   [Invite AetherGuard to your Server](https://discord.com/oauth2/authorize?client_id=YOUR_BOT_ID&permissions=8&scope=bot%20applications.commands) (Replace `YOUR_BOT_ID` with actual bot ID)
+*   [Source Code (GitHub Link)](https://github.com/NotRitik/DiscordBotPlaceholder) (Will be open-sourced soon!)
+
+### ✨ Other Notable Projects
+*   [**QuantumLink (Full-Stack Web App)**](https://github.com/NotRitik/QuantumLink): A secure and scalable URL shortening service with analytics, user authentication, and custom alias support. (Technologies: Next.js, Node.js, Express, MongoDB)
+*   [**DataViz Engine (Data Visualization Tool)**](https://github.com/NotRitik/DataVizEngine): A Python-based desktop application for interactive data analysis and visualization from various data sources. (Technologies: Python, Pandas, Matplotlib, PyQt5)
+
+---
+
+## 📊 My Development Journey at a Glance
+
+Showcasing my activity and contributions on GitHub.
+*(Note: These badges use `NotRitik` as the username. Please replace `NotRitik` in the `src` attribute of these images with your actual GitHub username for them to work!)*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NotRitik&show_icons=true&theme=dark&rank_icon=github" alt="Not Ritik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotRitik&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+### 📰 Latest Updates & News
+Stay tuned for the latest developments, project milestones, and interesting insights from my coding journey!
+
+*   **[2024-07-26]** **AetherGuard v1.1 Released!** - Introduced new slash commands for enhanced moderation and improved error handling.
+*   **[2024-07-15]** Began exploring **Rust** for high-performance microservices, focusing on network optimization.
+*   **[2024-07-01]** Contributed to the [Open Source Project X](https://github.com/OpenSourceOrg/ProjectX) by optimizing database queries, resulting in a 15% performance boost.
+*   **[2024-06-20]** Successfully deployed QuantumLink to a production environment, handling over 10,000 requests per day.
+
+---
+
+## ✉️ Let's Connect!
+
+I'm always open to collaborating on interesting projects, discussing new technologies, or simply connecting with fellow developers. Feel free to reach out!
+
+*   **Email:** [not.ritik.dev@example.com](mailto:not.ritik.dev@example.com) (Please replace with your actual email)
+*   **LinkedIn:** [linkedin.com/in/notritik](https://www.linkedin.com/in/notritik) (Please replace with your actual LinkedIn profile)
+*   **GitHub:** [github.com/NotRitik](https://github.com/NotRitik) (Please replace with your actual GitHub profile)
+*   **Discord:** `NotRitik#0001` (or your new Discord Username, e.g., `notritik`)
+*   **Portfolio Website:** [notritik.dev](https://notritik.dev) (Coming Soon!)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/notritik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/NotRitik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:not.ritik.dev@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
+
+---
+
+## 💻 My Current Setup
+
+A glimpse into the environment where the magic happens and code comes to life!
+
+![Not Ritik's Development Setup](https://cdn.discordapp.com/attachments/1381145666427818076/1388515653077569536/20250628_191517.jpg?ex=6861ec39&is=68609ab9&hm=d097011a721be176328e5ea71f014bca246c00aee01581b7d90bb2bd867dc87f&)
+
+---
+
+<p align="center">
+  <small>
+    &copy; 2024 Not Ritik. All rights reserved. <br>
+    Made with ❤️ and ☕
+  </small>
+</p>
