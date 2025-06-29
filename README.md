@@ -14,7 +14,7 @@
     Replace `NotRitik` in their `src` attribute with your actual GitHub username once you set one up.
 -->
 
-![Developer Portfolio Banner]([https://cdn.discordapp.com/attachments/1382606226545967165/1388149260024807446/file_00000000c73462309962bf8cb1391c78.png?ex=6861e87e&is=686096fe&hm=20e59533136f5bc77add0f20004d5988cc14d7a8e76283465173aed9a6e9a1dc&](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlhbGRhaWF5aHB2OW93cTc2N3A4Zm95MTVoMnh3dGx5cXBid2dubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif))
+![Developer Portfolio Banner]([[https://cdn.discordapp.com/attachments/1382606226545967165/1388149260024807446/file_00000000c73462309962bf8cb1391c78.png?ex=6861e87e&is=686096fe&hm=20e59533136f5bc77add0f20004d5988cc14d7a8e76283465173aed9a6e9a1dc&](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlhbGRhaWF5aHB2OW93cTc2N3A4Zm95MTVoMnh3dGx5cXBid2dubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)](https://cdn.discordapp.com/attachments/1383262533917610128/1388766422263660584/Code_Hacking_GIF_by_Pizza_Ninjas.gif?ex=68622d05&is=6860db85&hm=5c148e9ce4d1677900173e0cbb0a4c5a7e9d8407f86d713efc18f2b258132bea&))
 
 # 🌟 Welcome to NotRitik's Digital Domain 🚀
 
