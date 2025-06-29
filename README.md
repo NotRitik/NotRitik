@@ -102,11 +102,11 @@ Here are some highlights of my work, demonstrating my capabilities in specialize
 *   [Learn More (GitHub Link)](https://github.com/NotRitik/MinecraftProjectPlaceholder)
 
 ### 🤖 Discord Bot Development
-#### Project: [AetherGuard - Multi-purpose Community Bot]
+#### Project: [RxZentrix - Multi-purpose Community Bot]
 *   **Description:** A comprehensive Discord bot engineered to empower community managers with powerful moderation tools, custom command capabilities, robust event logging, and fun utility features. Designed for high uptime and low latency, supporting various Discord server needs.
 *   **Technologies:** Python (Pycord), PostgreSQL, Docker, AsyncIO.
 *   **Status:** Live on multiple servers / Seeking Beta Testers
-*   [Invite AetherGuard to your Server](https://discord.com/oauth2/authorize?client_id=YOUR_BOT_ID&permissions=8&scope=bot%20applications.commands) (Replace `YOUR_BOT_ID` with actual bot ID)
+*   [Invite RxZentrix to your Server](https://discord.com/oauth2/authorize?client_id=1382636304600141885&permissions=8&integration_type=0&scope=bot)
 *   [Source Code (GitHub Link)](https://github.com/NotRitik/DiscordBotPlaceholder) (Will be open-sourced soon!)
 
 ### ✨ Other Notable Projects
