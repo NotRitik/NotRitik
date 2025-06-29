@@ -109,10 +109,6 @@ Here are some highlights of my work, demonstrating my capabilities in specialize
 *   [Invite RxZentrix to your Server](https://discord.com/oauth2/authorize?client_id=1382636304600141885&permissions=8&integration_type=0&scope=bot)
 *   [Source Code (GitHub Link)](https://github.com/NotRitik/DiscordBotPlaceholder) (Will be open-sourced soon!)
 
-### ✨ Other Notable Projects
-*   [**QuantumLink (Full-Stack Web App)**](https://github.com/NotRitik/QuantumLink): A secure and scalable URL shortening service with analytics, user authentication, and custom alias support. (Technologies: Next.js, Node.js, Express, MongoDB)
-*   [**DataViz Engine (Data Visualization Tool)**](https://github.com/NotRitik/DataVizEngine): A Python-based desktop application for interactive data analysis and visualization from various data sources. (Technologies: Python, Pandas, Matplotlib, PyQt5)
-
 ---
 
 ## 📊 My Development Journey at a Glance
