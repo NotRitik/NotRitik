@@ -139,17 +139,15 @@ Stay tuned for the latest developments, project milestones, and interesting insi
 
 I'm always open to collaborating on interesting projects, discussing new technologies, or simply connecting with fellow developers. Feel free to reach out!
 
-*   **Email:** [not.ritik.dev@example.com](mailto:not.ritik.dev@example.com) (Please replace with your actual email)
-*   **LinkedIn:** [linkedin.com/in/notritik](https://www.linkedin.com/in/notritik) (Please replace with your actual LinkedIn profile)
+*   **Email:** [ritikcodez@gmail.com](mailto:ritikcodez@gmail.com) (Please replace with your actual email)
 *   **GitHub:** [github.com/NotRitik](https://github.com/NotRitik) (Please replace with your actual GitHub profile)
-*   **Discord:** `NotRitik#0001` (or your new Discord Username, e.g., `notritik`)
-*   **Portfolio Website:** [notritik.dev](https://notritik.dev) (Coming Soon!)
+*   **Discord:** `notritik.exe`
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/notritik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/NotRitik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:not.ritik.dev@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:ritikcodez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://discordapp.com/users/notritik.exe"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ---
