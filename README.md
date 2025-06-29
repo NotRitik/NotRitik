@@ -16,11 +16,11 @@
 
 ![Developer Portfolio Banner](https://cdn.discordapp.com/attachments/1382606226545967165/1388149260024807446/file_00000000c73462309962bf8cb1391c78.png?ex=6861e87e&is=686096fe&hm=20e59533136f5bc77add0f20004d5988cc14d7a8e76283465173aed9a6e9a1dc&)
 
-# 🌟 Welcome to Not Ritik's Digital Domain 🚀
+# 🌟 Welcome to NotRitik's Digital Domain 🚀
 
 ### Crafting Innovative Solutions Across the Digital Spectrum
 
-Hello! I'm **Not Ritik**, a passionate and versatile developer dedicated to building impactful and scalable software solutions. With a keen eye for detail and a drive for innovation, I specialize in bringing diverse digital concepts to life, from intricate backend systems to engaging user interfaces and specialized applications. My journey in development is fueled by curiosity and a commitment to mastering new technologies and paradigms.
+Hello! I'm **NotRitik**, a passionate and versatile developer dedicated to building impactful and scalable software solutions. With a keen eye for detail and a drive for innovation, I specialize in bringing diverse digital concepts to life, from intricate backend systems to engaging user interfaces and specialized applications. My journey in development is fueled by curiosity and a commitment to mastering new technologies and paradigms.
 
 I thrive on turning complex ideas into elegant, high-performance software, whether it's optimizing server-side logic for a Minecraft network, engineering a feature-rich Discord bot, or developing a robust full-stack web application.
 
@@ -159,13 +159,13 @@ I'm always open to collaborating on interesting projects, discussing new technol
 
 A glimpse into the environment where the magic happens and code comes to life!
 
-![Not Ritik's Development Setup](https://cdn.discordapp.com/attachments/1381145666427818076/1388515653077569536/20250628_191517.jpg?ex=6861ec39&is=68609ab9&hm=d097011a721be176328e5ea71f014bca246c00aee01581b7d90bb2bd867dc87f&)
+![NotRitik's Development Setup](https://cdn.discordapp.com/attachments/1381145666427818076/1388515653077569536/20250628_191517.jpg?ex=6861ec39&is=68609ab9&hm=d097011a721be176328e5ea71f014bca246c00aee01581b7d90bb2bd867dc87f&)
 
 ---
 
 <p align="center">
   <small>
     &copy; 2024 Not Ritik. All rights reserved. <br>
-    Made with ❤️ and ☕
+    Made with RxDevelopement
   </small>
 </p>
