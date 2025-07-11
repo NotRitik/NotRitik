@@ -148,13 +148,6 @@ I'm always open to collaborating on interesting projects, discussing new technol
 
 ---
 
-## 💻 My Current Setup
-
-A glimpse into the environment where the magic happens and code comes to life!
-
-![NotRitik's Development Setup](https://cdn.discordapp.com/attachments/1381145666427818076/1388515653077569536/20250628_191517.jpg?ex=6861ec39&is=68609ab9&hm=d097011a721be176328e5ea71f014bca246c00aee01581b7d90bb2bd867dc87f&)
-
----
 
 <p align="center">
   <small>
