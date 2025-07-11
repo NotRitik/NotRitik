@@ -14,7 +14,7 @@
     Replace `NotRitik` in their `src` attribute with your actual GitHub username once you set one up.
 -->
 
-![Developer Portfolio Banner](https://cdn.discordapp.com/attachments/1383262533917610128/1388766422263660584/Code_Hacking_GIF_by_Pizza_Ninjas.gif?ex=68622d05&is=6860db85&hm=5c148e9ce4d1677900173e0cbb0a4c5a7e9d8407f86d713efc18f2b258132bea&)
+![Developer Portfolio Banner](https://cdn.discordapp.com/attachments/1383262533917610128/1388766422263660584/Code_Hacking_GIF_by_Pizza_Ninjas.gif?ex=6871ff05&is=6870ad85&hm=83b464459f72f1e5514946d55b2e6a5fe4389bb62250e1c54d8ef37aca99c9ee&)
 
 # 🌟 Welcome to NotRitik's Digital Domain 🚀
 
